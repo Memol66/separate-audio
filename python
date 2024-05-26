@@ -1,9 +1,9 @@
 from moviepy.editor import VideoFileClip
 
-# Path to the video file
+# Path to the video file.
 video_path = 'path_to_your_video_file.mp4'
 
-# Load the video
+# Load the video.
 video_clip = VideoFileClip(video_path)
 
 # Extract audio
