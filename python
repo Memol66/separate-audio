@@ -1,6 +1,7 @@
+# 0.2580000000000
 from moviepy.editor import VideoFileClip
 
-# Path to the video file.0.2580000000000
+# Path to the video file.
 video_path = 'path_to_your_video_file.mp4'
 
 # Load the video.
